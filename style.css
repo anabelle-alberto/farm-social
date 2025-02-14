@@ -111,7 +111,7 @@ input::placeholder {
     top: 50%;
     transform: translateY(-50%);
     font-size: 0.75rem;
-    color: #666;
+    color: #000000;
 }
 
 input[type="date"]::-webkit-calendar-picker-indicator {
@@ -179,11 +179,11 @@ button:hover {
 .terms {
     text-align: center;
     font-size: 0.875rem;
-    color: #666;
+    color: #000000;
 }
 
 .terms a {
-    color: #666;
+    color: #000000;
     text-decoration: underline;
 }
 
