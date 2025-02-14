@@ -60,6 +60,7 @@ body {
     border-radius: 32px;
     overflow: hidden;
     color: white;
+    margin-bottom: 1.5rem;
 }
 
 .form-header {
@@ -169,7 +170,6 @@ button {
     text-transform: uppercase;
     cursor: pointer;
     transition: background-color 0.2s;
-    margin-bottom: 1.5rem;
 }
 
 button:hover {
@@ -179,10 +179,11 @@ button:hover {
 .terms {
     text-align: center;
     font-size: 0.875rem;
+    color: #666;
 }
 
 .terms a {
-    color: white;
+    color: #666;
     text-decoration: underline;
 }
 
@@ -206,6 +207,9 @@ button:hover {
     }
 
     .form-header p {
+        font-size: 1rem;
+    }
+}
         font-size: 1rem;
     }
 }
